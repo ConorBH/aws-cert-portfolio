@@ -36,4 +36,3 @@
 
 ## Services / keywords to remember
 - IAM, MFA, Roles, Policies, Least Privilege, STS, AssumeRole, Access Keys
-- (Next-step services you’ll meet later) CloudTrail, CloudWatch, AWS Config
