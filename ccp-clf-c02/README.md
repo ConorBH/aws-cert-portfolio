@@ -1,5 +1,7 @@
 # CCP (CLF-C02)
 
+- Start here: [CLF-C02 Domain Map](00-exam-blueprint/CLF-C02-domain-map.md)
+
 Goal: build AWS fundamentals fast and produce small artefacts that demonstrate understanding (not just exam passes).
 
 Folders:
